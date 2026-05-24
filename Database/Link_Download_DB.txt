@@ -1,0 +1,22 @@
+ Dataset **FashionIQ**    https://drive.google.com/drive/folders/1D3foO3YSFHL9KWHWC_D8L3bohno62HN8
+
+
+CLIP4CIR_MoE
+└───  fashionIQ_dataset
+      └─── captions
+            | cap.dress.test.json
+            | cap.dress.train.json
+            | cap.dress.val.json
+            | ... 
+            
+      └───  images
+            | B00006M009.jpg
+            | B00006M00B.jpg
+            | B00006M6IH.jpg
+            | ...
+            
+      └─── image_splits
+            | split.dress.test.json
+            | split.dress.train.json
+            | split.dress.val.json
+            | ...
