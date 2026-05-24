@@ -1,0 +1,5 @@
+This project implements a Composed Image Retrieval (CIR) system. The system leverages features extracted from the CLIP model, combined with an enhanced Combiner network that integrates a Mixture of Experts (MoE) mechanism to enable flexible multimodal fusion.
+
+The system performs target image retrieval based on:
+**A reference image.
+**A modification text description.
